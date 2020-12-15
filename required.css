@@ -1,3 +1,31 @@
+html{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 video {
     object-fit: contain;
+
+
+}
+.smthing{
+    color: aquamarine;
+    font-size: 16px;
+}
+h1{
+    font-weight: 300;
+    font-size: 45 px;
+    color: white;
+
+}
+.big{
+    font-size: 50px;
+}
+p{
+    font-size: 21px;
+    color: gray;
+}
+.right{
+    text-align: right;
 }
